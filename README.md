@@ -22,7 +22,7 @@ You will then be asked what you would like to do:
 #### Concert This
 
 ![Concert This Selection](./img/s1.png)
-![Concert This Parameter Input](../img/s2.png)
+![Concert This Parameter Input](./img/s2.png)
 ![Concert This Output](./img/s3.png)
 
 #### Spotify This Song
